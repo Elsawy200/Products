@@ -1,1 +1,25 @@
-# products
+ 
+ dependencies of project
+
+ "@react-native-async-storage/async-storage": "^1.15.14",
+    "@react-native-community/masked-view": "^0.1.11",
+    "axios": "^0.24.0",
+    "fbjs": "^0.8.18",
+    "react": "17.0.2",
+    "react-native": "0.66.3",
+    "react-native-check-box": "^2.1.7",
+    "react-native-fbsdk": "^3.0.0",
+    "react-native-form-validator": "^0.5.1",
+    "react-native-gesture-handler": "^1.5.3",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-paper": "^3.12.0",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-safe-area-context": "^0.6.2",
+    "react-native-screens": "^2.0.0-alpha.24",
+    "react-native-search-box": "^0.0.20",
+    "react-native-textinput-effects": "^0.6.2",
+    "react-native-vector-icons": "^9.0.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-material-bottom-tabs": "^2.3.4",
+    "react-navigation-stack": "^2.0.15",
+    "validator": "^13.7.0"
